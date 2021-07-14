@@ -3,6 +3,8 @@
             sometime we want to find the value of 2**20 type values which is very large ....
 			so condition are given to find ans %M.....where 
             M = 1e9 7;  */
+
+// recursive approach....
 #include<iostream>
 long M = 1e9 +7;
 using namespace std;
